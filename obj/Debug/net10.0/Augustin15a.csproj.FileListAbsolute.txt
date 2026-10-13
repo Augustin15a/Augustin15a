@@ -1,0 +1,5 @@
+/workspaces/Augustin15a/obj/Debug/net10.0/Augustin15a.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Augustin15a/obj/Debug/net10.0/Augustin15a.AssemblyInfoInputs.cache
+/workspaces/Augustin15a/obj/Debug/net10.0/Augustin15a.AssemblyInfo.cs
+/workspaces/Augustin15a/obj/Debug/net10.0/Augustin15a.csproj.CoreCompileInputs.cache
+/workspaces/Augustin15a/obj/Debug/net10.0/Augustin15a.sourcelink.json
